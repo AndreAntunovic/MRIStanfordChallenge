@@ -4,7 +4,7 @@ A. Antunovic, V. Morgenshtern were tackling the problem of the MRNet Challenge b
 New approaches, improving on the existing colour activation heatmap provided by the competitors for visualization 
 of the images, will be considered. Especially the application of the approach developed
 by Brendel and Bethge in 'Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet'
-results in much better results regarding the interpreteability of the MRIs.
+leads to much better results regarding the interpreteability of the MRIs.
 Furthermore the classification results could be improved by using the pretrained ZFNet as baseline for the designed neural network.
 
 
