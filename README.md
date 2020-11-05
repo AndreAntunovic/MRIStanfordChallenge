@@ -1,5 +1,3 @@
-for the code feel free to contact me via andre.antunovic300@gmail.com
-
 # MRNet Challenge - Friedrich Alexander University
 
 A. Antunovic, V. Morgenshtern are participating in the MRNet Challenge by Stanford University.
