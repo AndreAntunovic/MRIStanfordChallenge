@@ -1,6 +1,6 @@
 # MRNet Challenge - Friedrich Alexander University
 
-A. Antunovic, V. Morgenshtern are participating in the MRNet Challenge by Stanford University.
+A. Antunovic, V. Morgenshtern were tackling the problem of the MRNet Challenge by Stanford University.
 New approaches, improving on the existing colour activation heatmap provided by the competitors for visualization 
 of the images, will be considered. Especially the application of the approach developed
 by Brendel and Bethge in 'Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet'
