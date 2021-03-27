@@ -54,7 +54,7 @@ optional arguments:
 Since the task of diagnosing knee injuries in the near future will rely on human evaluation a big
 effort was paid on getting good visualization results.
 
-One can run the Jupiter Notebook HeatmapVisualization.iypnb, choose
+One can run the Jupyter Notebook HeatmapVisualization.iypnb, choose
 the desired knee MRI from: '/data/MRNet-v1.0/[train/valid]/[axial/coronal/sagittal]/{Number}.npy' which should be evaluated 
 and load the state dictionary of the chosen neural network from: `experiment/{experiment-name}/args.json`.
 In this notebook one can either check how good visualization works for the chosen network or one can create GIFs as the one shown below. This is the sagittal view of a knee MRI, with an 
@@ -64,7 +64,7 @@ area where the acl is located really well and identifies it as crucial for the d
 
 ![Farmers Market Finder Demo](images/gif3/heatmap_convert.gif)
 
-Another Jupyiter notebook was created in order to visualize and evaluate the process of the network understanding 
+Another Jupyter notebook was created in order to visualize and evaluate the process of the network understanding 
 the structure of the knee during the training process.
 In order to get a feeling on how the network improves in recognizing the shape and the injured spots of the knee
 consider the HeatmapOverEpochs.iypnb notebook. It can be notized easily that after the first epoch the network barely
